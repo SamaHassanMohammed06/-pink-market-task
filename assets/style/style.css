@@ -9,6 +9,7 @@ body {
         opacity: 0;
         visibility: visible;
     }
+
     50% {
         opacity: 1;
         visibility: visible;
@@ -19,13 +20,13 @@ body {
     animation: smoothing 1s ease-in-out;
 }
 
-/* Navigation */    
+/* Navigation */
 .first_view nav {
     display: flex;
     background-color: rgb(245, 212, 218);
-    justify-content: space-between; 
-    align-items: center; 
-    padding: 0 50px; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
     position: sticky;
     top: 0px;
     z-index: 1000;
@@ -56,20 +57,20 @@ nav .logo img {
 
 nav .icons {
     display: flex;
-    gap: 20px; 
+    gap: 20px;
     align-items: center;
-}   
+}
 
 nav .icons a {
     color: rgb(132, 74, 117);
     text-decoration: none;
-    font-size: 18px; 
+    font-size: 18px;
 }
 
-nav .nav_bar ul li a:hover, 
+nav .nav_bar ul li a:hover,
 nav .icons a:hover {
-    color: #ff6b81; 
-}   
+    color: #ff6b81;
+}
 
 /* Background Picture Section */
 .first_view .background_pic {
@@ -116,7 +117,7 @@ nav .icons a:hover {
     border: none;
     outline: none;
     cursor: pointer;
-    width: calc(100% / 6 - 25px); 
+    width: calc(100% / 6 - 25px);
     min-width: 120px;
     display: flex;
     flex-direction: column;
@@ -220,7 +221,8 @@ footer {
     margin-bottom: 20px;
 }
 
-.footer_section h3, .footer_section h4 {
+.footer_section h3,
+.footer_section h4 {
     margin-bottom: 15px;
     text-transform: uppercase;
 }
@@ -281,6 +283,7 @@ footer {
     .hero .hero_content {
         width: 30%;
     }
+
     .categories button {
         width: calc(100% / 4 - 20px);
     }
@@ -291,16 +294,20 @@ footer {
     .first_view nav {
         padding: 0 20px;
     }
+
     .nav_bar ul li {
         padding: 10px 8px;
         font-size: 14px;
     }
+
     .hero .hero_content {
         width: 45%;
     }
+
     .categories button {
         width: calc(100% / 3 - 20px);
     }
+
     .first_view .background_pic h1 {
         font-size: 30px;
     }
@@ -312,19 +319,29 @@ footer {
         flex-direction: column;
         padding: 10px;
     }
+
     .nav_bar ul {
         margin-top: 10px;
     }
+
     .hero .hero_content {
         width: 90%;
     }
+
     .categories button {
+
         width: calc(100% / 2 - 15px);
     }
+
+    .categories img {
+        display: none;
+    }
+
     .footer_section {
         text-align: center;
         min-width: 100%;
     }
+
     .social_icons {
         justify-content: center;
     }

@@ -41,12 +41,15 @@ window.addEventListener('load', () => {
         smooth_move();
         let xhr = new XMLHttpRequest();
         let isNews = category === "news";
-        xhr.open('GET', isNews ? `../news.json` : `../${category}.json`);
+        xhr.open('GET', isNews ? `news.json` : `${category}.json`);
         xhr.onload = () => {
             if (xhr.status === 200) {
                 let all_products = JSON.parse(xhr.responseText);
                 display_products(all_products, category);
-                heading.textContent = isNews ? `New Arrival!` : `${category} Section`;
+                if (category === "Bags_Wallets") { heading.textContent = "Bags and Wallets Section" }
+                else if (category === "Hair_Products") { heading.textContent = "Hair Products Section" }
+                else if (category === "Skincare_Products") { heading.textContent = "Skincare Products Section" }
+                else { heading.textContent = isNews ? `New Arrival!` : `${category} Section`; }
                 if (callback) callback();
             }
         };
