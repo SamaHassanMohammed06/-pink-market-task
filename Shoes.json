@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.16 PM (1).jpeg",
+        "name":"Red Patent heels",
+        "description": "Elegant deep red patent leather heels with a charming ankle bow.",
+        "stock": 20,
+        "price": 450
+    },
+    {
+        "id": 2,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM (2).jpeg",
+        "name":"High-top Sneakers",
+        "description": "High-top purple sneakers featuring a delicate daisy embroidery and white laces.",
+        "stock": 25,
+        "price": 380
+    },
+    {
+        "id": 3,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.16 PM.jpeg",
+        "name":"Chunky Sneakers",
+        "description": "Trendy chunky-soled sneakers in chocolate brown and cream with a star detail.",
+        "stock": 23,
+        "price": 420
+    },
+    {
+        "id": 4,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM (1).jpeg",
+        "name":"Ballet Flats",
+        "description": "Classic and comfortable light pink leather ballet flats with a dainty front bow.",
+        "stock": 20,
+        "price": 320
+    },
+    {
+        "id": 5,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM (3).jpeg",
+        "name":"Platform Sneakers",
+        "description": "Chic platform white sneakers accented with a cute pink ribbon on the side.",
+        "stock": 25,
+        "price": 450
+    },
+    {
+        "id": 6,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM.jpeg",
+        "name":"High-heel Sandals",
+        "description": "Minimalist lavender high-heel sandals with thin straps for a sophisticated look.",
+        "stock": 20,
+        "price": 500
+    },
+    {
+        "id": 7,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM (1).jpeg",
+        "name":"Cream Mid-heels",
+        "description": "Sophisticated cream-colored mid-heels with a round toe and bow detail.",
+        "stock": 25,
+        "price": 480
+    },
+    {
+        "id": 8,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM (2).jpeg",
+        "name":"Chunky Sneakers",
+        "description": "Stylish chunky sneakers in a soft baby blue and white color palette.",
+        "stock": 20,
+        "price": 430
+    },
+    {
+        "id": 9,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM (3).jpeg",
+        "name":"Pointed-toe Heels",
+        "description": "High-fashion pointed-toe slingback heels in crisp white with a front bow.",
+        "stock": 25,
+        "price": 520
+    },
+    {
+        "id": 10,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM.jpeg",
+        "name":"Loafers",
+        "description": "Casual yet polished beige loafers featuring a unique knotted strap design.",
+        "stock": 20,
+        "price": 390
+    },
+    {
+        "id": 11,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.19 PM.jpeg",
+        "name":"Patent Heels",
+        "description": "Retro-style olive green patent leather block heels with a classic ankle strap.",
+        "stock": 25,
+        "price": 470
+    },
+    {
+        "id": 12,
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.43.00 PM.jpeg",
+        "name":"Slingback Heels",
+        "description": "Vintage-inspired slingback heels with a brown plaid pattern and a small bow.",
+        "stock": 20,
+        "price": 490
+    }
+]

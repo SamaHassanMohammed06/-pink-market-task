@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Minimalist Heart Mug",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.32.28 PM.jpeg",
+    "description": "Elegant ceramic mug with a minimalist red heart pattern, perfect for cozy coffee mornings.",
+    "stock": 25,
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name": "Aesthetic Mild Highlighters",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.13 PM.jpeg",
+    "description": "Set of 8 mild aesthetic highlighters in soft pastel tones, ideal for students and journaling.",
+    "stock": 45,
+    "price": 85
+  },
+  {
+    "id": 3,
+    "name": "Portable Mini Fan",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (1).jpeg",
+    "description": "Portable handheld mini fan in pastel pink, featuring a sleek design and rechargeable battery.",
+    "stock": 15,
+    "price": 150
+  },
+  {
+    "id": 4,
+    "name": "Premium Silk Sleep Mask",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (2).jpeg",
+    "description": "Collection of premium silk sleep masks in neutral shades for a luxurious and restful night.",
+    "stock": 50,
+    "price": 65
+  },
+  {
+    "id": 5,
+    "name": "Travel Neck Pillow",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (3).jpeg",
+    "description": "Cute pink character-themed travel neck pillow, providing soft and ergonomic support.",
+    "stock": 10,
+    "price": 190
+  },
+  {
+    "id": 6,
+    "name": "Crochet Bow Keychain",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (4).jpeg",
+    "description": "Handmade burgundy crochet bow keychains, a delicate and trendy accessory for your bags.",
+    "stock": 30,
+    "price": 45
+  },
+  {
+    "id": 7,
+    "name": "Mood Octopus Plushie",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.12 PM.jpeg",
+    "description": "Reversible mood octopus plushie, a soft and fun way to express your emotions.",
+    "stock": 20,
+    "price": 95
+  },
+  {
+    "id": 8,
+    "name": "Heart Compact Mirror",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (1).jpeg",
+    "description": "Heart-shaped compact pocket mirror in baby pink, essential for quick touch-ups on the go.",
+    "stock": 40,
+    "price": 55
+  },
+  {
+    "id": 9,
+    "name": "Jellyfish Desk Lamp",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (2).jpeg",
+    "description": "Artistic jellyfish desk lamp with warm LED lighting, creating a serene and modern ambiance.",
+    "stock": 8,
+    "price": 320
+  },
+  {
+    "id": 10,
+    "name": "Hello Kitty Plush Rug",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (3).jpeg",
+    "description": "Adorable Hello Kitty face-shaped plush rug, adding a cute touch to your bedroom floor.",
+    "stock": 12,
+    "price": 240
+  },
+  {
+    "id": 11,
+    "name": "Swan Canvas Painting",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (4).jpeg",
+    "description": "Framed canvas painting of two elegant swans in a soft pink frame, perfect for home decor.",
+    "stock": 5,
+    "price": 280
+  },
+  {
+    "id": 12,
+    "name": "Inspirational Notebook",
+    "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM.jpeg",
+    "description": "Aesthetic spiral notebooks with gold-stamped inspirational quotes and pastel covers.",
+    "stock": 60,
+    "price": 70
+  }
+]

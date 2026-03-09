@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Pink Lace-up Trousers",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.52 PM.jpeg",
+        "description": "Stylish high-waisted pink trousers with trendy side lace-up detailing.",
+        "stock": 12,
+        "price": 245
+    },
+    {
+        "id": 2,
+        "name": "Olive Wide-Leg Linen",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM (1).jpeg",
+        "description": "Comfortable olive green wide-leg linen pants with a relaxed drawstring waist.",
+        "stock": 34,
+        "price": 180
+    },
+    {
+        "id": 3,
+        "name": "Classic Grey Sweatpants",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM (2).jpeg",
+        "description": "Classic grey oversized sweatpants, perfect for a cozy and sporty look.",
+        "stock": 15,
+        "price": 320
+    },
+    {
+        "id": 4,
+        "name": "Abstract Block Jeans",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM (3).jpeg",
+        "description": "Unique wide-leg jeans with a pink and cream abstract color-block design.",
+        "stock": 50,
+        "price": 150
+    },
+    {
+        "id": 5,
+        "name": "Bow Accent Denim",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM.jpeg",
+        "description": "Fashionable light blue denim jeans featuring cute white bow accents at the hem.",
+        "stock": 8,
+        "price": 450
+    },
+    {
+        "id": 6,
+        "name": "White Belted Trousers",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.54 PM (1).jpeg",
+        "description": "Elegant white high-waisted wide-leg trousers with a matching slim belt.",
+        "stock": 22,
+        "price": 210
+    },
+    {
+        "id": 7,
+        "name": "Duo Wide-Leg Set",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.54 PM (2).jpeg",
+        "description": "Versatile duo of wide-leg trousers in classic black and crisp white colors.",
+        "stock": 19,
+        "price": 385
+    },
+    {
+        "id": 8,
+        "name": "Brown Ultra-Wide Joggers",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.54 PM.jpeg",
+        "description": "Dark brown ultra-wide leg joggers with a comfortable elastic waistband.",
+        "stock": 41,
+        "price": 275
+    },
+    {
+        "id": 9,
+        "name": "Butterfly Print Jeans",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM (1).jpeg",
+        "description": "Edgy charcoal grey wide-leg jeans adorned with stylish silver butterfly prints.",
+        "stock": 5,
+        "price": 520
+    },
+    {
+        "id": 10,
+        "name": "Star Patch Denim Shorts",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM (2).jpeg",
+        "description": "Casual denim shorts with distressed star-shaped patches and a raw hem.",
+        "stock": 27,
+        "price": 195
+    },
+    {
+        "id": 11,
+        "name": "Daisy Floral Shorts",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM (3).jpeg",
+        "description": "Cute light blue denim shorts featuring a playful white daisy floral pattern.",
+        "stock": 14,
+        "price": 415
+    },
+    {
+        "id": 12,
+        "name": "Bow Embroidery Shorts",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM.jpeg",
+        "description": "Trendy denim shorts with small black bow embroidery, available in two washes.",
+        "stock": 30,
+        "price": 130
+    }
+]
