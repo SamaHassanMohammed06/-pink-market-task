@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "TRESemmé Moisture Set",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (1).jpeg",
+        "description": "Professional TRESemmé Moisture Rich shampoo and conditioner set for salon-healthy hair.",
+        "stock": 12,
+        "price": 245
+    },
+    {
+        "id": 2,
+        "name": "Scalp Massager Brush",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (2).jpeg",
+        "description": "Ergonomic silicone scalp massager brushes in various pastel colors for deep cleaning.",
+        "stock": 34,
+        "price": 180
+    },
+    {
+        "id": 3,
+        "name": "Flexible Detangler Brush",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (3).jpeg",
+        "description": "Flexible detangling hair brushes in pink and purple, designed for smooth hair without breakage.",
+        "stock": 15,
+        "price": 320
+    },
+    {
+        "id": 4,
+        "name": "L'Oréal Hyaluron Routine",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (4).jpeg",
+        "description": "L'Oréal Elseve Hyaluron Plump full hair care routine including shampoo, conditioner, and mask.",
+        "stock": 50,
+        "price": 150
+    },
+    {
+        "id": 5,
+        "name": "Pink Silk Bonnet",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM.jpeg",
+        "description": "Luxury pink silk bonnet for protecting hair from frizz and breakage during sleep.",
+        "stock": 8,
+        "price": 450
+    },
+    {
+        "id": 6,
+        "name": "Elvive Extraordinary Oil",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM (1).jpeg",
+        "description": "L'Oréal Elvive Extraordinary Oil Miracle Hair Perfector for deep nourishment and shine.",
+        "stock": 22,
+        "price": 210
+    },
+    {
+        "id": 7,
+        "name": "Classic Bobby Pins Pack",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM (2).jpeg",
+        "description": "A pack of classic black bobby pins for secure and easy hair styling.",
+        "stock": 19,
+        "price": 385
+    },
+    {
+        "id": 8,
+        "name": "Heatless Curling Set",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM (3).jpeg",
+        "description": "Heatless hair curling set in soft pink satin with a matching scrunchie and clip.",
+        "stock": 41,
+        "price": 275
+    },
+    {
+        "id": 9,
+        "name": "Velcro Hair Rollers",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM.jpeg",
+        "description": "Set of blue velcro hair rollers for creating volume and bouncy curls.",
+        "stock": 5,
+        "price": 520
+    },
+    {
+        "id": 10,
+        "name": "Stylish Headbands Set",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.05.17 PM (1).jpeg",
+        "description": "Collection of stylish headbands in different patterns and fabrics, including pearls and gingham.",
+        "stock": 27,
+        "price": 195
+    },
+    {
+        "id": 11,
+        "name": "Scalp Oil Applicator",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.05.17 PM.jpeg",
+        "description": "Pink scalp oil applicator bottles with comb nozzles for precise oil distribution.",
+        "stock": 14,
+        "price": 415
+    },
+    {
+        "id": 12,
+        "name": "Patterned Scrunchies",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.05.18 PM (1).jpeg",
+        "description": "Assorted colorful floral and patterned scrunchies for a soft and trendy hair look.",
+        "stock": 30,
+        "price": 130
+    }
+]

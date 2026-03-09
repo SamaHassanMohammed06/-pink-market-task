@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Pink Bow Ruffle Skirt",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.50.00 PM.jpeg",
+        "description": "Soft pink tiered mini skirt with a feminine ruffled design and bow prints.",
+        "stock": 20,
+        "price": 460
+    },
+    {
+        "id": 2,
+        "name": "Sunflower Corduroy Mini",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.50.00 PM (1).jpeg",
+        "description": "Trendy brown corduroy mini skirt with delicate sunflower embroidery.",
+        "stock": 20,
+        "price": 390
+    },
+    {
+        "id": 3,
+        "name": "Elegant Tiered Maxi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.49 PM.jpeg",
+        "description": "Elegant light pink tiered maxi skirt with a flowing silhouette.",
+        "stock": 20,
+        "price": 420
+    },
+    {
+        "id": 4,
+        "name": "Sage Green Wrap Skirt",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM.jpeg",
+        "description": "Lovely sage green ruffled mini skirt with a wrap-around tie detail.",
+        "stock": 25,
+        "price": 440
+    },
+    {
+        "id": 5,
+        "name": "Blue Floral Gathered Maxi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (4).jpeg",
+        "description": "Sophisticated blue floral maxi skirt with a stylish gathered waist.",
+        "stock": 25,
+        "price": 450
+    },
+    {
+        "id": 6,
+        "name": "Butterfly Mesh Mini",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (3).jpeg",
+        "description": "Chic white mesh mini skirt featuring elegant burgundy butterfly embroidery.",
+        "stock": 25,
+        "price": 430
+    },
+    {
+        "id": 7,
+        "name": "Breezy Floral Midi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (1).jpeg",
+        "description": "Classic pink and blue floral midi skirt with a soft, breezy fabric.",
+        "stock": 25,
+        "price": 450
+    },
+    {
+        "id": 8,
+        "name": "Lace Insert Blue Maxi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (2).jpeg",
+        "description": "Simple light blue tiered maxi skirt with a delicate lace insert.",
+        "stock": 20,
+        "price": 480
+    },
+    {
+        "id": 9,
+        "name": "Vintage Burgundy Floral",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.47 PM.jpeg",
+        "description": "Vintage-style burgundy floral skirt with a rich, dark pattern.",
+        "stock": 20,
+        "price": 520
+    },
+    {
+        "id": 10,
+        "name": "Black Daisy Midi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.47 PM (2).jpeg",
+        "description": "Charming black midi skirt with a bright white daisy floral print.",
+        "stock": 23,
+        "price": 380
+    },
+    {
+        "id": 11,
+        "name": "Dark Green Leaf Mesh",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.47 PM (1).jpeg",
+        "description": "Elegant dark green mesh maxi skirt with black leaf embroidery.",
+        "stock": 25,
+        "price": 400
+    },
+    {
+        "id": 12,
+        "name": "Dusty Rose Button Mini",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-02 at 8.43.57 PM.jpeg",
+        "description": "Stylish dusty rose mini skirt with a button-down front and pleated detail.",
+        "stock": 20,
+        "price": 470
+    }
+]

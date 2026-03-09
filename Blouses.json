@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Pink Floral Bell Blouse",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.47 PM (1).jpeg",
+        "description": "Feminine pink floral blouse with long bell sleeves and a delicate front tie.",
+        "stock": 12,
+        "price": 245
+    },
+    {
+        "id": 2,
+        "name": "Burgundy Lace-up Vest",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.47 PM.jpeg",
+        "description": "Sophisticated burgundy sleeveless vest with a lace-up side design and button front.",
+        "stock": 34,
+        "price": 180
+    },
+    {
+        "id": 3,
+        "name": "Grey Corset-Style Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.48 PM (1).jpeg",
+        "description": "Modern grey off-the-shoulder top with a structured corset-style waist.",
+        "stock": 15,
+        "price": 320
+    },
+    {
+        "id": 4,
+        "name": "Vintage Mesh Floral Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.48 PM.jpeg",
+        "description": "Elegant mesh long-sleeve top with a vintage floral pattern and ruched detailing.",
+        "stock": 50,
+        "price": 150
+    },
+    {
+        "id": 5,
+        "name": "Oversized Side-Tie Blouse",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (1).jpeg",
+        "description": "Minimalist black oversized short-sleeve blouse with stylish side-tie ribbons.",
+        "stock": 8,
+        "price": 450
+    },
+    {
+        "id": 6,
+        "name": "Striped Asymmetric Knit",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (2).jpeg",
+        "description": "Chic black and white striped knit top with an asymmetrical neckline.",
+        "stock": 22,
+        "price": 210
+    },
+    {
+        "id": 7,
+        "name": "Pink Heart-Button Crop",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (3).jpeg",
+        "description": "Sweet baby pink ribbed crop top with a collar and heart-shaped buttons.",
+        "stock": 19,
+        "price": 385
+    },
+    {
+        "id": 8,
+        "name": "Blue Striped Cinched Shirt",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (4).jpeg",
+        "description": "Classic light blue striped short-sleeve shirt with a cinched waist detail.",
+        "stock": 41,
+        "price": 275
+    },
+    {
+        "id": 9,
+        "name": "Leopard Flare Crop Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM.jpeg",
+        "description": "Bold leopard print long-sleeve crop top with a square neckline and flared sleeves.",
+        "stock": 5,
+        "price": 520
+    },
+    {
+        "id": 10,
+        "name": "Abstract Print Wrap Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.50 PM (1).jpeg",
+        "description": "Artistic black and white abstract print wrap top with a front-tie closure.",
+        "stock": 27,
+        "price": 195
+    },
+    {
+        "id": 11,
+        "name": "Lace-up Back Sweatshirt",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.50 PM (2).jpeg",
+        "description": "Trendy charcoal grey oversized sweatshirt with a unique lace-up back design.",
+        "stock": 14,
+        "price": 415
+    },
+    {
+        "id": 12,
+        "name": "Daisy Print Tank Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.50 PM.jpeg",
+        "description": "Cute cream-colored tank top featuring a yellow daisy print and a mustard collar.",
+        "stock": 30,
+        "price": 130
+    }
+]

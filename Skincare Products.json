@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "CeraVe Moisturizing Lotion",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (1).jpeg",
+        "description": "CeraVe Daily Moisturizing Lotion - Lightweight oil-free moisturizer for normal to dry skin.",
+        "stock": 12,
+        "price": 450
+    },
+    {
+        "id": 2,
+        "name": "Bepanthen Derma Face Cream",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (2).jpeg",
+        "description": "Bepanthen Derma Regenerating Face Cream - Deeply hydrates and restores skin radiance.",
+        "stock": 34,
+        "price": 320
+    },
+    {
+        "id": 3,
+        "name": "VS Cherry Rush Mist",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (3).jpeg",
+        "description": "Victoria's Secret Cherry Rush Fragrance Mist - A sweet and refreshing fruity body spray.",
+        "stock": 15,
+        "price": 550
+    },
+    {
+        "id": 4,
+        "name": "Vaseline Rosy Lips",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (4).jpeg",
+        "description": "Vaseline Lip Therapy Rosy Lips - Pocket-sized balm for soft, tinted, and healthy lips.",
+        "stock": 50,
+        "price": 95
+    },
+    {
+        "id": 5,
+        "name": "Rose Quartz Facial Roller",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM.jpeg",
+        "description": "Rose Quartz Facial Roller - Natural cooling stone to reduce puffiness and tension.",
+        "stock": 8,
+        "price": 180
+    },
+    {
+        "id": 6,
+        "name": "Exfoliating Scrub Mitt",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM (1).jpeg",
+        "description": "Dewy Hours Soft Exfoliating Mitt - Gentle body scrub glove for smooth and glowing skin.",
+        "stock": 22,
+        "price": 130
+    },
+    {
+        "id": 7,
+        "name": "Professional Manicure Kit",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM (2).jpeg",
+        "description": "Professional Manicure Kit - Complete set of tools for nail shaping and cuticle care.",
+        "stock": 19,
+        "price": 280
+    },
+    {
+        "id": 8,
+        "name": "Vaseline Cocoa Radiant",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM (3).jpeg",
+        "description": "Vaseline Intensive Care Cocoa Radiant Body Lotion - For a natural, healthy-looking glow.",
+        "stock": 41,
+        "price": 240
+    },
+    {
+        "id": 9,
+        "name": "Spa Gel Softening Socks",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM.jpeg",
+        "description": "Spa Gel Socks - Infused with essential oils to soften and repair dry or cracked feet.",
+        "stock": 5,
+        "price": 160
+    },
+    {
+        "id": 10,
+        "name": "Dove Coconut Body Spray",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.08 PM (1).jpeg",
+        "description": "Dove Nourishing Secrets Body Spray - Infused with coconut and jasmine scent.",
+        "stock": 27,
+        "price": 210
+    },
+    {
+        "id": 11,
+        "name": "Nivea Sun Shine Control",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.08 PM.jpeg",
+        "description": "Nivea Sun Facial Shine Control SPF 50 - High protection with an instant mattifying effect.",
+        "stock": 14,
+        "price": 380
+    },
+    {
+        "id": 12,
+        "name": "Vaseline Lip Therapy Set",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.54.13 PM.jpeg",
+        "description": "Vaseline Lip Therapy Variety Pack - Set of mini balms in different flavors and scents.",
+        "stock": 30,
+        "price": 420
+    }
+]
