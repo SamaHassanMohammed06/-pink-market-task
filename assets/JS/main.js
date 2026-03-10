@@ -43,7 +43,7 @@ window.addEventListener('load', () => {
         smooth_move();
         let xhr = new XMLHttpRequest();
         let isNews = category === "News";
-        xhr.open('GET', isNews ? `../News.json` : `../data.json`);
+        xhr.open('GET', isNews ? `../news.json` : `../data.json`);
         xhr.onload = () => {
             if (xhr.status === 200) {
                 let all_products = JSON.parse(xhr.responseText);
