@@ -19,7 +19,8 @@ window.addEventListener('load', () => {
     function display_products(products, category) {
         let product_data = "";
         for (let item of products) {
-            product_data += `
+            if (category === item.category) {
+                product_data += `
                 <div class="hero_content">
                     <img src="${item.image}" alt="">
                     <div class="product_name">
@@ -33,6 +34,7 @@ window.addEventListener('load', () => {
                     </button></div>
                 </div>
             `;
+            }
         }
         hero_cont.innerHTML = product_data;
     }
@@ -40,8 +42,8 @@ window.addEventListener('load', () => {
     function load_category(category, callback) {
         smooth_move();
         let xhr = new XMLHttpRequest();
-        let isNews = category === "news";
-        xhr.open('GET', isNews ? `../news.json` : `../${category}.json`);
+        let isNews = category === "News";
+        xhr.open('GET', isNews ? `../News.json` : `../data.json`);
         xhr.onload = () => {
             if (xhr.status === 200) {
                 let all_products = JSON.parse(xhr.responseText);
@@ -61,7 +63,7 @@ window.addEventListener('load', () => {
     });
 
     function home() {
-        load_category("news");
+        load_category("News");
     }
 
     const link = document.querySelectorAll(".nav_bar ul li a");

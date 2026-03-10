@@ -5,7 +5,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.50 PM (1).jpeg",
         "description": "Clear glass mug with delicate pink butterfly and floral patterns.",
         "stock": 15,
-        "price": 120
+        "price": 120,
+        "category": "News"
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.50 PM (2).jpeg",
         "description": "Gold-tone thin chain necklace featuring a cute double cherry pendant.",
         "stock": 10,
-        "price": 85
+        "price": 85,
+        "category": "News"
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.50 PM (3).jpeg",
         "description": "Vintage-style lavender hairbrush with elegant pink floral illustrations.",
         "stock": 8,
-        "price": 150
+        "price": 150,
+        "category": "News"
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.50 PM.jpeg",
         "description": "Scented white candle in a sleek red heart-shaped tin container.",
         "stock": 30,
-        "price": 60
+        "price": 60,
+        "category": "News"
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.51 PM (1).jpeg",
         "description": "Soft beige plush teddy bear with a cute purple hair clip detail.",
         "stock": 5,
-        "price": 200
+        "price": 200,
+        "category": "News"
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.51 PM (2).jpeg",
         "description": "Victoria's Secret Cherry Bonbon Bliss fragrance mist and body lotion set.",
         "stock": 12,
-        "price": 850
+        "price": 850,
+        "category": "News"
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.51 PM (3).jpeg",
         "description": "Set of soft plush spa headbands in pink, leopard, and lavender colors.",
         "stock": 40,
-        "price": 45
+        "price": 45,
+        "category": "News"
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.51 PM (4).jpeg",
         "description": "Premium collection item - high quality accessory for your daily style.",
         "stock": 7,
-        "price": 950
+        "price": 950,
+        "category": "News"
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.51 PM.jpeg",
         "description": "Elegant chocolate brown long-sleeve pleated dress with a sweetheart neckline.",
         "stock": 4,
-        "price": 320
+        "price": 320,
+        "category": "News"
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.55.52 PM.jpeg",
         "description": "Ornate white tabletop mirror with a romantic heart-shaped frame.",
         "stock": 10,
-        "price": 550
+        "price": 550,
+        "category": "News"
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.56.42 PM (1).jpeg",
         "description": "Chic and modern piece designed for comfort and elegance.",
         "stock": 15,
-        "price": 420
+        "price": 420,
+        "category": "News"
     },
     {
         "id": 12,
@@ -93,6 +104,7 @@
         "image": "../assets/images/News/WhatsApp Image 2026-03-03 at 9.56.42 PM.jpeg",
         "description": "Limited edition item with unique aesthetic details.",
         "stock": 5,
-        "price": 600
+        "price": 600,
+        "category": "News"
     }
 ]

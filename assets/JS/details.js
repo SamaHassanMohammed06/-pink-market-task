@@ -33,7 +33,7 @@ window.addEventListener("load", function () {
             <div class="details">
                 <p class="head">Name:<br>${product.name}</p>
                 <p class="head">Description:<br>${product.description}</p>
-                <p class="head">Price: ${product.price}</p>
+                <p class="head">Price: ${product.price}$</p>
                 <p class="head">Stock: ${product.stock}</p>
             </div>
             `;
@@ -41,8 +41,7 @@ window.addEventListener("load", function () {
             wrapper.innerHTML = details;
         }
     };
-
-    xhr.open("GET", `../${category}.json`);
+    xhr.open('GET', category === "News" ? `../News.json` : `../data.json`);
     xhr.send();
 
 });

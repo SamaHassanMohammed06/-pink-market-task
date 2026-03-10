@@ -1,0 +1,1190 @@
+[
+    {
+        "id": 1,
+        "name": "Floral Gold Choker",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.52 PM (1).jpeg",
+        "description": "Exquisite gold choker necklace adorned with delicate white and pink flowers.",
+        "stock": 12,
+        "price": 280,
+        "category": "Accessories"
+    },
+    {
+        "id": 2,
+        "name": "Minimalist Gold Cuff",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.52 PM.jpeg",
+        "description": "Minimalist open gold cuff bracelet featuring a sophisticated leaf or wheat design.",
+        "stock": 34,
+        "price": 150,
+        "category": "Accessories"
+    },
+    {
+        "id": 3,
+        "name": "Vintage Enamel Bangles",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.53 PM (1).jpeg",
+        "description": "Stack of vintage-style enamel bangles with intricate floral patterns and gold accents.",
+        "stock": 15,
+        "price": 320,
+        "category": "Accessories"
+    },
+    {
+        "id": 4,
+        "name": "Moon & Floral Earrings",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.53 PM (2).jpeg",
+        "description": "Dreamy gold dangle earrings with crescent moon and floral crystal elements.",
+        "stock": 50,
+        "price": 240,
+        "category": "Accessories"
+    },
+    {
+        "id": 5,
+        "name": "Gold Knotted Heart Ring",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.53 PM (3).jpeg",
+        "description": "Simple and elegant gold heart-shaped ring with a danty knotted band.",
+        "stock": 8,
+        "price": 120,
+        "category": "Accessories"
+    },
+    {
+        "id": 6,
+        "name": "Pink Crystal Flower Hooks",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.53 PM (4).jpeg",
+        "description": "Dainty gold hook earrings featuring a sparkling pink crystal flower pendant.",
+        "stock": 22,
+        "price": 180,
+        "category": "Accessories"
+    },
+    {
+        "id": 7,
+        "name": "Lily Flower Wire Cuff",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.53 PM.jpeg",
+        "description": "Handcrafted gold wire cuff bracelet decorated with a stunning white lily flower.",
+        "stock": 19,
+        "price": 210,
+        "category": "Accessories"
+    },
+    {
+        "id": 8,
+        "name": "Pink Heart Chandelier Earrings",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.54 PM (1).jpeg",
+        "description": "Elegant chandelier earrings with crystal details and a heart-shaped pink stone.",
+        "stock": 41,
+        "price": 260,
+        "category": "Accessories"
+    },
+    {
+        "id": 9,
+        "name": "Fairy-core Layered Necklace",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.54 PM (2).jpeg",
+        "description": "Fairy-core gold necklace featuring pink flowers and layered dainty chains.",
+        "stock": 5,
+        "price": 350,
+        "category": "Accessories"
+    },
+    {
+        "id": 10,
+        "name": "Adjustable Gold Leaf Ring",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.18.54 PM.jpeg",
+        "description": "Adjustable gold leaf ring that elegantly wraps around the finger.",
+        "stock": 27,
+        "price": 140,
+        "category": "Accessories"
+    },
+    {
+        "id": 11,
+        "name": "Butterfly Pearl Necklace",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.20.09 PM (1).jpeg",
+        "description": "Layered gold necklace with multiple tiny butterfly charms and a central pearl butterfly.",
+        "stock": 14,
+        "price": 290,
+        "category": "Accessories"
+    },
+    {
+        "id": 12,
+        "name": "Pearl Drop Bow Necklace",
+        "image": "../assets/images/accessories/WhatsApp Image 2026-03-03 at 7.20.09 PM.jpeg",
+        "description": "Classic pearl drop necklace with a delicate gold bow tie element.",
+        "stock": 30,
+        "price": 310,
+        "category": "Accessories"
+    },
+    {
+        "id": 13,
+        "name": "Red Heart Knit Tote",
+        "image": "../assets/images/bags/IMG-20251221-WA0364.jpg",
+        "description": "Adorable knit tote bag featuring a vibrant red heart pattern on a cream background.",
+        "stock": 20,
+        "price": 350,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 14,
+        "name": "White Ribbon Shoulder Bag",
+        "image": "../assets/images/bags/IMG-20251221-WA0365.jpg",
+        "description": "Chic white leather shoulder bag accented with a delicate pink ribbon and silver charm.",
+        "stock": 25,
+        "price": 480,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 15,
+        "name": "Pink Bow Aesthetic Tote",
+        "image": "../assets/images/bags/IMG-20251221-WA0366.jpg",
+        "description": "Casual tote bag with a soft aesthetic featuring cute pink bow illustrations.",
+        "stock": 23,
+        "price": 320,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 16,
+        "name": "Floral Tassel Wallet",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.32.04 PM.jpeg",
+        "description": "Slim zip-around wallet with a dainty floral print and a pink tassel zipper pull.",
+        "stock": 20,
+        "price": 190,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 17,
+        "name": "Starry Night Backpack",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.36.38 PM.jpeg",
+        "description": "Stylish cream backpack with a subtle star-and-moon pattern, perfect for school or travel.",
+        "stock": 25,
+        "price": 550,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 18,
+        "name": "Teal Floral Backpack",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.39.02 PM (1).jpeg",
+        "description": "Spacious floral print backpack with teal accents, ideal for a fresh and trendy look.",
+        "stock": 20,
+        "price": 520,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 19,
+        "name": "Pink Corduroy Bunny Tote",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.39.02 PM (2).jpeg",
+        "description": "Sweet pink corduroy tote bag decorated with a white lace bow and a plush bunny charm.",
+        "stock": 25,
+        "price": 380,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 20,
+        "name": "Playful Cat Wallet",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.39.02 PM.jpeg",
+        "description": "Whimsical long wallet featuring a playful black cat print on a pink background.",
+        "stock": 20,
+        "price": 220,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 21,
+        "name": "Heart Checkered Wallet",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.39.02 PM (3).jpeg",
+        "description": "Trendy checkered wallet in red and green with a central heart emblem.",
+        "stock": 25,
+        "price": 240,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 22,
+        "name": "Blue Floral Crossbody",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.39.03 PM (1).jpeg",
+        "description": "Elegant light blue crossbody bag with a minimalist floral pattern and silver chain.",
+        "stock": 20,
+        "price": 410,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 23,
+        "name": "Lavender Half-Moon Bag",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.39.03 PM (2).jpeg",
+        "description": "Classic lavender half-moon shoulder bag with a sleek, structured design.",
+        "stock": 25,
+        "price": 430,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 24,
+        "name": "Mini Pastel Ruffle Set",
+        "image": "../assets/images/bags/WhatsApp Image 2026-03-03 at 5.39.03 PM.jpeg",
+        "description": "Collection of mini pastel handbags with ruffled edges and cute character details.",
+        "stock": 20,
+        "price": 300,
+        "category": "Bags and Wallets"
+    },
+    {
+        "id": 25,
+        "name": "Pink Floral Bell Blouse",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.47 PM (1).jpeg",
+        "description": "Feminine pink floral blouse with long bell sleeves and a delicate front tie.",
+        "stock": 12,
+        "price": 245,
+        "category": "Blouses"
+    },
+    {
+        "id": 26,
+        "name": "Burgundy Lace-up Vest",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.47 PM.jpeg",
+        "description": "Sophisticated burgundy sleeveless vest with a lace-up side design and button front.",
+        "stock": 34,
+        "price": 180,
+        "category": "Blouses"
+    },
+    {
+        "id": 27,
+        "name": "Grey Corset-Style Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.48 PM (1).jpeg",
+        "description": "Modern grey off-the-shoulder top with a structured corset-style waist.",
+        "stock": 15,
+        "price": 320,
+        "category": "Blouses"
+    },
+    {
+        "id": 28,
+        "name": "Vintage Mesh Floral Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.48 PM.jpeg",
+        "description": "Elegant mesh long-sleeve top with a vintage floral pattern and ruched detailing.",
+        "stock": 50,
+        "price": 150,
+        "category": "Blouses"
+    },
+    {
+        "id": 29,
+        "name": "Oversized Side-Tie Blouse",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (1).jpeg",
+        "description": "Minimalist black oversized short-sleeve blouse with stylish side-tie ribbons.",
+        "stock": 8,
+        "price": 450,
+        "category": "Blouses"
+    },
+    {
+        "id": 30,
+        "name": "Striped Asymmetric Knit",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (2).jpeg",
+        "description": "Chic black and white striped knit top with an asymmetrical neckline.",
+        "stock": 22,
+        "price": 210,
+        "category": "Blouses"
+    },
+    {
+        "id": 31,
+        "name": "Pink Heart-Button Crop",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (3).jpeg",
+        "description": "Sweet baby pink ribbed crop top with a collar and heart-shaped buttons.",
+        "stock": 19,
+        "price": 385,
+        "category": "Blouses"
+    },
+    {
+        "id": 32,
+        "name": "Blue Striped Cinched Shirt",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM (4).jpeg",
+        "description": "Classic light blue striped short-sleeve shirt with a cinched waist detail.",
+        "stock": 41,
+        "price": 275,
+        "category": "Blouses"
+    },
+    {
+        "id": 33,
+        "name": "Leopard Flare Crop Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.49 PM.jpeg",
+        "description": "Bold leopard print long-sleeve crop top with a square neckline and flared sleeves.",
+        "stock": 5,
+        "price": 520,
+        "category": "Blouses"
+    },
+    {
+        "id": 34,
+        "name": "Abstract Print Wrap Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.50 PM (1).jpeg",
+        "description": "Artistic black and white abstract print wrap top with a front-tie closure.",
+        "stock": 27,
+        "price": 195,
+        "category": "Blouses"
+    },
+    {
+        "id": 35,
+        "name": "Lace-up Back Sweatshirt",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.50 PM (2).jpeg",
+        "description": "Trendy charcoal grey oversized sweatshirt with a unique lace-up back design.",
+        "stock": 14,
+        "price": 415,
+        "category": "Blouses"
+    },
+    {
+        "id": 36,
+        "name": "Daisy Print Tank Top",
+        "image": "../assets/images/blouse/WhatsApp Image 2026-03-03 at 8.18.50 PM.jpeg",
+        "description": "Cute cream-colored tank top featuring a yellow daisy print and a mustard collar.",
+        "stock": 30,
+        "price": 130,
+        "category": "Blouses"
+    },
+    {
+        "id": 37,
+        "name": "Pink Puff Corset Dress",
+        "image": "../assets/images/dress/867f11e64d0a462d49cb1f17a97f1ab4.jpg.jpeg",
+        "description": "Dreamy light pink puff-sleeve dress with a corset-style waist and ruffled hemline.",
+        "stock": 12,
+        "price": 850,
+        "category": "Dresses"
+    },
+    {
+        "id": 38,
+        "name": "Chocolate Dramatic Mini",
+        "image": "../assets/images/dress/dd18fd9a7141dd3523f92808380c6c99.jpg.jpeg",
+        "description": "Elegant dark chocolate mini dress with long dramatic sleeves and a cinched waist.",
+        "stock": 34,
+        "price": 790,
+        "category": "Dresses"
+    },
+    {
+        "id": 39,
+        "name": "Yellow Floral Sundress",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.01.12 PM (1).jpeg",
+        "description": "Sunny yellow floral sundress with ruffled tiers and delicate tie-shoulder straps.",
+        "stock": 15,
+        "price": 620,
+        "category": "Dresses"
+    },
+    {
+        "id": 40,
+        "name": "Baby Pink Skater Dress",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.01.12 PM (2).jpeg",
+        "description": "Chic off-the-shoulder baby pink skater dress with a structured fit-and-flare silhouette.",
+        "stock": 50,
+        "price": 580,
+        "category": "Dresses"
+    },
+    {
+        "id": 41,
+        "name": "Sage Green Wrap Dress",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.01.12 PM (3).jpeg",
+        "description": "Short-sleeved sage green wrap dress with subtle ruffles for a fresh cottagecore look.",
+        "stock": 8,
+        "price": 650,
+        "category": "Dresses"
+    },
+    {
+        "id": 42,
+        "name": "Classic Blue Wrap Dress",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.01.12 PM (4).jpeg",
+        "description": "Classic blue short-sleeved wrap dress featuring a graceful ruffled hemline.",
+        "stock": 22,
+        "price": 640,
+        "category": "Dresses"
+    },
+    {
+        "id": 43,
+        "name": "Boho Blue Midi Dress",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.01.12 PM.jpeg",
+        "description": "Bohemian-style blue floral midi dress with puff sleeves and a sweet heart neckline.",
+        "stock": 19,
+        "price": 720,
+        "category": "Dresses"
+    },
+    {
+        "id": 44,
+        "name": "Cherry Print Cami Dress",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.01.13 PM (1).jpeg",
+        "description": "Dainty black cami dress featuring a cute cherry print and a side slit.",
+        "stock": 41,
+        "price": 550,
+        "category": "Dresses"
+    },
+    {
+        "id": 45,
+        "name": "Navy Bow Mini Dress",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.01.13 PM.jpeg",
+        "description": "Minimalist navy blue mini dress with thin straps and a scattered white bow pattern.",
+        "stock": 5,
+        "price": 490,
+        "category": "Dresses"
+    },
+    {
+        "id": 46,
+        "name": "Burgundy Bell Sleeve",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.06.21 PM (1).jpeg",
+        "description": "Vintage-inspired burgundy floral dress with bell sleeves and a flowing skirt.",
+        "stock": 27,
+        "price": 880,
+        "category": "Dresses"
+    },
+    {
+        "id": 47,
+        "name": "Monochrome Floral Midi",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.06.21 PM.jpeg",
+        "description": "Sophisticated black and white floral print midi dress with sheer long sleeves.",
+        "stock": 14,
+        "price": 920,
+        "category": "Dresses"
+    },
+    {
+        "id": 48,
+        "name": "Brown Embroidered A-Line",
+        "image": "../assets/images/dress/WhatsApp Image 2026-03-03 at 7.06.21 PM (2).jpeg",
+        "description": "Classic brown A-line dress with a square neckline and delicate floral embroidery.",
+        "stock": 30,
+        "price": 750,
+        "category": "Dresses"
+    },
+    {
+        "id": 49,
+        "name": "Minimalist Heart Mug",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.32.28 PM.jpeg",
+        "description": "Elegant ceramic mug with a minimalist red heart pattern, perfect for cozy coffee mornings.",
+        "stock": 25,
+        "price": 120,
+        "category": "Gifts"
+    },
+    {
+        "id": 50,
+        "name": "Aesthetic Mild Highlighters",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.13 PM.jpeg",
+        "description": "Set of 8 mild aesthetic highlighters in soft pastel tones, ideal for students and journaling.",
+        "stock": 45,
+        "price": 85,
+        "category": "Gifts"
+    },
+    {
+        "id": 51,
+        "name": "Portable Mini Fan",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (1).jpeg",
+        "description": "Portable handheld mini fan in pastel pink, featuring a sleek design and rechargeable battery.",
+        "stock": 15,
+        "price": 150,
+        "category": "Gifts"
+    },
+    {
+        "id": 52,
+        "name": "Premium Silk Sleep Mask",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (2).jpeg",
+        "description": "Collection of premium silk sleep masks in neutral shades for a luxurious and restful night.",
+        "stock": 50,
+        "price": 65,
+        "category": "Gifts"
+    },
+    {
+        "id": 53,
+        "name": "Travel Neck Pillow",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (3).jpeg",
+        "description": "Cute pink character-themed travel neck pillow, providing soft and ergonomic support.",
+        "stock": 10,
+        "price": 190,
+        "category": "Gifts"
+    },
+    {
+        "id": 54,
+        "name": "Crochet Bow Keychain",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.14 PM (4).jpeg",
+        "description": "Handmade burgundy crochet bow keychains, a delicate and trendy accessory for your bags.",
+        "stock": 30,
+        "price": 45,
+        "category": "Gifts"
+    },
+    {
+        "id": 55,
+        "name": "Mood Octopus Plushie",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.12 PM.jpeg",
+        "description": "Reversible mood octopus plushie, a soft and fun way to express your emotions.",
+        "stock": 20,
+        "price": 95,
+        "category": "Gifts"
+    },
+    {
+        "id": 56,
+        "name": "Heart Compact Mirror",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (1).jpeg",
+        "description": "Heart-shaped compact pocket mirror in baby pink, essential for quick touch-ups on the go.",
+        "stock": 40,
+        "price": 55,
+        "category": "Gifts"
+    },
+    {
+        "id": 57,
+        "name": "Jellyfish Desk Lamp",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (2).jpeg",
+        "description": "Artistic jellyfish desk lamp with warm LED lighting, creating a serene and modern ambiance.",
+        "stock": 8,
+        "price": 320,
+        "category": "Gifts"
+    },
+    {
+        "id": 58,
+        "name": "Hello Kitty Plush Rug",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (3).jpeg",
+        "description": "Adorable Hello Kitty face-shaped plush rug, adding a cute touch to your bedroom floor.",
+        "stock": 12,
+        "price": 240,
+        "category": "Gifts"
+    },
+    {
+        "id": 59,
+        "name": "Swan Canvas Painting",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM (4).jpeg",
+        "description": "Framed canvas painting of two elegant swans in a soft pink frame, perfect for home decor.",
+        "stock": 5,
+        "price": 280,
+        "category": "Gifts"
+    },
+    {
+        "id": 60,
+        "name": "Inspirational Notebook",
+        "image": "../assets/images/gift/WhatsApp Image 2026-03-03 at 8.27.15 PM.jpeg",
+        "description": "Aesthetic spiral notebooks with gold-stamped inspirational quotes and pastel covers.",
+        "stock": 60,
+        "price": 70,
+        "category": "Gifts"
+    },
+    {
+        "id": 61,
+        "name": "TRESemmé Moisture Set",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (1).jpeg",
+        "description": "Professional TRESemmé Moisture Rich shampoo and conditioner set for salon-healthy hair.",
+        "stock": 12,
+        "price": 245,
+        "category": "Hair Products"
+    },
+    {
+        "id": 62,
+        "name": "Scalp Massager Brush",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (2).jpeg",
+        "description": "Ergonomic silicone scalp massager brushes in various pastel colors for deep cleaning.",
+        "stock": 34,
+        "price": 180,
+        "category": "Hair Products"
+    },
+    {
+        "id": 63,
+        "name": "Flexible Detangler Brush",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (3).jpeg",
+        "description": "Flexible detangling hair brushes in pink and purple, designed for smooth hair without breakage.",
+        "stock": 15,
+        "price": 320,
+        "category": "Hair Products"
+    },
+    {
+        "id": 64,
+        "name": "L'Oréal Hyaluron Routine",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM (4).jpeg",
+        "description": "L'Oréal Elseve Hyaluron Plump full hair Products routine including shampoo, conditioner, and mask.",
+        "stock": 50,
+        "price": 150,
+        "category": "Hair Products"
+    },
+    {
+        "id": 65,
+        "name": "Pink Silk Bonnet",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.29 PM.jpeg",
+        "description": "Luxury pink silk bonnet for protecting hair from frizz and breakage during sleep.",
+        "stock": 8,
+        "price": 450,
+        "category": "Hair Products"
+    },
+    {
+        "id": 66,
+        "name": "Elvive Extraordinary Oil",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM (1).jpeg",
+        "description": "L'Oréal Elvive Extraordinary Oil Miracle Hair Perfector for deep nourishment and shine.",
+        "stock": 22,
+        "price": 210,
+        "category": "Hair Products"
+    },
+    {
+        "id": 67,
+        "name": "Classic Bobby Pins Pack",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM (2).jpeg",
+        "description": "A pack of classic black bobby pins for secure and easy hair styling.",
+        "stock": 19,
+        "price": 385,
+        "category": "Hair Products"
+    },
+    {
+        "id": 68,
+        "name": "Heatless Curling Set",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM (3).jpeg",
+        "description": "Heatless hair curling set in soft pink satin with a matching scrunchie and clip.",
+        "stock": 41,
+        "price": 275,
+        "category": "Hair Products"
+    },
+    {
+        "id": 69,
+        "name": "Velcro Hair Rollers",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.03.30 PM.jpeg",
+        "description": "Set of blue velcro hair rollers for creating volume and bouncy curls.",
+        "stock": 5,
+        "price": 520,
+        "category": "Hair Products"
+    },
+    {
+        "id": 70,
+        "name": "Stylish Headbands Set",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.05.17 PM (1).jpeg",
+        "description": "Collection of stylish headbands in different patterns and fabrics, including pearls and gingham.",
+        "stock": 27,
+        "price": 195,
+        "category": "Hair Products"
+    },
+    {
+        "id": 71,
+        "name": "Scalp Oil Applicator",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.05.17 PM.jpeg",
+        "description": "Pink scalp oil applicator bottles with comb nozzles for precise oil distribution.",
+        "stock": 14,
+        "price": 415,
+        "category": "Hair Products"
+    },
+    {
+        "id": 72,
+        "name": "Patterned Scrunchies",
+        "image": "../assets/images/haircare/WhatsApp Image 2026-03-03 at 8.05.18 PM (1).jpeg",
+        "description": "Assorted colorful floral and patterned scrunchies for a soft and trendy hair look.",
+        "stock": 30,
+        "price": 130,
+        "category": "Hair Products"
+    },
+    {
+        "id": 73,
+        "name": "Dior On Stage Liner",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.38 PM.jpeg",
+        "description": "Dior Show On Stage Liner - Professional waterproof liquid eyeliner in vinyl black.",
+        "stock": 12,
+        "price": 650,
+        "category": "Makeup"
+    },
+    {
+        "id": 74,
+        "name": "NYX Suede Matte Liner",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.39 PM (1).jpeg",
+        "description": "NYX Professional Makeup Suede Matte Lip Liner for a precise and velvety finish.",
+        "stock": 34,
+        "price": 180,
+        "category": "Makeup"
+    },
+    {
+        "id": 75,
+        "name": "City Girls Mega Glow",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.39 PM (2).jpeg",
+        "description": "City Girls Mega Glow Highlighter - Pressed powder for a radiant, shimmering finish.",
+        "stock": 15,
+        "price": 220,
+        "category": "Makeup"
+    },
+    {
+        "id": 76,
+        "name": "Sheglam Lip Glow Oil",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.39 PM (3).jpeg",
+        "description": "Sheglam Moisturizing Lip Glow Oil - Hydrating formula for a natural tint and high shine.",
+        "stock": 50,
+        "price": 240,
+        "category": "Makeup"
+    },
+    {
+        "id": 77,
+        "name": "Kiko 3D Hydra Gloss",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.39 PM.jpeg",
+        "description": "Kiko Milano 3D Hydra Lipgloss - Softening gloss for shiny, plumped-up lips.",
+        "stock": 8,
+        "price": 450,
+        "category": "Makeup"
+    },
+    {
+        "id": 78,
+        "name": "Pro Makeup Sponges Set",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.40 PM (1).jpeg",
+        "description": "Set of 4 professional makeup sponges in various shades for seamless blending.",
+        "stock": 22,
+        "price": 160,
+        "category": "Makeup"
+    },
+    {
+        "id": 79,
+        "name": "MUFE Lip Pencil Set",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.40 PM (2).jpeg",
+        "description": "Make Up For Ever - High Precision Lip Pencil set available in multiple rose and nude shades.",
+        "stock": 19,
+        "price": 550,
+        "category": "Makeup"
+    },
+    {
+        "id": 80,
+        "name": "Gradient Brush Set",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.40 PM (3).jpeg",
+        "description": "Complete professional makeup brush set with elegant pink-to-blue gradient handles.",
+        "stock": 41,
+        "price": 480,
+        "category": "Makeup"
+    },
+    {
+        "id": 81,
+        "name": "Mekka Brow Soap",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.40 PM.jpeg",
+        "description": "Makeup Mekka Brow Soap - Long-lasting transparent styling wax for perfectly shaped brows.",
+        "stock": 5,
+        "price": 210,
+        "category": "Makeup"
+    },
+    {
+        "id": 82,
+        "name": "3D Faux Mink Lashes",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.41 PM (1).jpeg",
+        "description": "Set of 10 pairs of 3D faux mink eyelashes for a dramatic and voluminous look.",
+        "stock": 27,
+        "price": 320,
+        "category": "Makeup"
+    },
+    {
+        "id": 83,
+        "name": "Pro Cream Palette",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.40.41 PM.jpeg",
+        "description": "Professional 12-shade cream palette featuring blush and contouring tones.",
+        "stock": 14,
+        "price": 580,
+        "category": "Makeup"
+    },
+    {
+        "id": 84,
+        "name": "Ofra Glow Highlighter",
+        "image": "../assets/images/makeup/WhatsApp Image 2026-03-03 at 7.41.06 PM.jpeg",
+        "description": "Ofra Cosmetics Highlighter - Highly pigmented glowing powder for a sun-kissed look.",
+        "stock": 30,
+        "price": 490,
+        "category": "Makeup"
+    },
+    {
+        "id": 85,
+        "name": "Pink Lace-up Trousers",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.52 PM.jpeg",
+        "description": "Stylish high-waisted pink trousers with trendy side lace-up detailing.",
+        "stock": 12,
+        "price": 245,
+        "category": "Pants"
+    },
+    {
+        "id": 86,
+        "name": "Olive Wide-Leg Linen",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM (1).jpeg",
+        "description": "Comfortable olive green wide-leg linen pants with a relaxed drawstring waist.",
+        "stock": 34,
+        "price": 180,
+        "category": "Pants"
+    },
+    {
+        "id": 87,
+        "name": "Classic Grey Sweatpants",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM (2).jpeg",
+        "description": "Classic grey oversized sweatpants, perfect for a cozy and sporty look.",
+        "stock": 15,
+        "price": 320,
+        "category": "Pants"
+    },
+    {
+        "id": 88,
+        "name": "Abstract Block Jeans",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM (3).jpeg",
+        "description": "Unique wide-leg jeans with a pink and cream abstract color-block design.",
+        "stock": 50,
+        "price": 150,
+        "category": "Pants"
+    },
+    {
+        "id": 89,
+        "name": "Bow Accent Denim",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.53 PM.jpeg",
+        "description": "Fashionable light blue denim jeans featuring cute white bow accents at the hem.",
+        "stock": 8,
+        "price": 450,
+        "category": "Pants"
+    },
+    {
+        "id": 90,
+        "name": "White Belted Trousers",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.54 PM (1).jpeg",
+        "description": "Elegant white high-waisted wide-leg trousers with a matching slim belt.",
+        "stock": 22,
+        "price": 210,
+        "category": "Pants"
+    },
+    {
+        "id": 91,
+        "name": "Duo Wide-Leg Set",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.54 PM (2).jpeg",
+        "description": "Versatile duo of wide-leg trousers in classic black and crisp white colors.",
+        "stock": 19,
+        "price": 385,
+        "category": "Pants"
+    },
+    {
+        "id": 92,
+        "name": "Brown Ultra-Wide Joggers",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.10.54 PM.jpeg",
+        "description": "Dark brown ultra-wide leg joggers with a comfortable elastic waistband.",
+        "stock": 41,
+        "price": 275,
+        "category": "Pants"
+    },
+    {
+        "id": 93,
+        "name": "Butterfly Print Jeans",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM (1).jpeg",
+        "description": "Edgy charcoal grey wide-leg jeans adorned with stylish silver butterfly prints.",
+        "stock": 5,
+        "price": 520,
+        "category": "Pants"
+    },
+    {
+        "id": 94,
+        "name": "Star Patch Denim Shorts",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM (2).jpeg",
+        "description": "Casual denim shorts with distressed star-shaped patches and a raw hem.",
+        "stock": 27,
+        "price": 195,
+        "category": "Pants"
+    },
+    {
+        "id": 95,
+        "name": "Daisy Floral Shorts",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM (3).jpeg",
+        "description": "Cute light blue denim shorts featuring a playful white daily floral pattern.",
+        "stock": 14,
+        "price": 415,
+        "category": "Pants"
+    },
+    {
+        "id": 96,
+        "name": "Bow Embroidery Shorts",
+        "image": "../assets/images/pants/WhatsApp Image 2026-03-03 at 8.12.15 PM.jpeg",
+        "description": "Trendy denim shorts with small black bow embroidery, available in two washes.",
+        "stock": 30,
+        "price": 130,
+        "category": "Pants"
+    },
+    {
+        "id": 97,
+        "name": "Red Patent heels",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.16 PM (1).jpeg",
+        "description": "Elegant deep red patent leather heels with a charming ankle bow.",
+        "stock": 20,
+        "price": 450,
+        "category": "Shoes"
+    },
+    {
+        "id": 98,
+        "name": "High-top Sneakers",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM (2).jpeg",
+        "description": "High-top purple sneakers featuring a delicate daisy embroidery and white laces.",
+        "stock": 25,
+        "price": 380,
+        "category": "Shoes"
+    },
+    {
+        "id": 99,
+        "name": "Chunky Sneakers",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.16 PM.jpeg",
+        "description": "Trendy chunky-soled sneakers in chocolate brown and cream with a star detail.",
+        "stock": 23,
+        "price": 420,
+        "category": "Shoes"
+    },
+    {
+        "id": 100,
+        "name": "Ballet Flats",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM (1).jpeg",
+        "description": "Classic and comfortable light pink leather ballet flats with a danty front bow.",
+        "stock": 20,
+        "price": 320,
+        "category": "Shoes"
+    },
+    {
+        "id": 101,
+        "name": "Platform Sneakers",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM (3).jpeg",
+        "description": "Chic platform white sneakers accented with a cute pink ribbon on the side.",
+        "stock": 25,
+        "price": 450,
+        "category": "Shoes"
+    },
+    {
+        "id": 102,
+        "name": "High-heel Sandals",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.17 PM.jpeg",
+        "description": "Minimalist lavender high-heel sandals with thin straps for a sophisticated look.",
+        "stock": 20,
+        "price": 500,
+        "category": "Shoes"
+    },
+    {
+        "id": 103,
+        "name": "Cream Mid-heels",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM (1).jpeg",
+        "description": "Sophisticated cream-colored mid-heels with a round toe and bow detail.",
+        "stock": 25,
+        "price": 480,
+        "category": "Shoes"
+    },
+    {
+        "id": 104,
+        "name": "Chunky Sneakers",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM (2).jpeg",
+        "description": "Stylish chunky sneakers in a soft baby blue and white color palette.",
+        "stock": 20,
+        "price": 430,
+        "category": "Shoes"
+    },
+    {
+        "id": 105,
+        "name": "Pointed-toe Heels",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM (3).jpeg",
+        "description": "High-fashion pointed-toe slingback heels in crisp white with a front bow.",
+        "stock": 25,
+        "price": 520,
+        "category": "Shoes"
+    },
+    {
+        "id": 106,
+        "name": "Loafers",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.18 PM.jpeg",
+        "description": "Casual yet polished beige loafers featuring a unique knotted strap design.",
+        "stock": 20,
+        "price": 390,
+        "category": "Shoes"
+    },
+    {
+        "id": 107,
+        "name": "Patent Heels",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.29.19 PM.jpeg",
+        "description": "Retro-style olive green patent leather block heels with a classic ankle strap.",
+        "stock": 25,
+        "price": 470,
+        "category": "Shoes"
+    },
+    {
+        "id": 108,
+        "name": "Slingback Heels",
+        "image": "../assets/images/shoes/WhatsApp Image 2026-03-03 at 6.43.00 PM.jpeg",
+        "description": "Vintage-inspired slingback heels with a brown plaid pattern and a small bow.",
+        "stock": 20,
+        "price": 490,
+        "category": "Shoes"
+    },
+    {
+        "id": 109,
+        "name": "CeraVe Moisturizing Lotion",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (1).jpeg",
+        "description": "CeraVe Daily Moisturizing Lotion - Lightweight oil-free moisturizer for normal to dry skin.",
+        "stock": 12,
+        "price": 450,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 110,
+        "name": "Bepanthen Derma Face Cream",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (2).jpeg",
+        "description": "Bepanthen Derma Regenerating Face Cream - Deeply hydrates and restores skin radiance.",
+        "stock": 34,
+        "price": 320,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 111,
+        "name": "VS Cherry Rush Mist",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (3).jpeg",
+        "description": "Victoria's Secret Cherry Rush Fragrance Mist - A sweet and refreshing fruity body spray.",
+        "stock": 15,
+        "price": 550,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 112,
+        "name": "Vaseline Rosy Lips",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM (4).jpeg",
+        "description": "Vaseline Lip Therapy Rosy Lips - Pocket-sized balm for soft, tinted, and healthy lips.",
+        "stock": 50,
+        "price": 95,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 113,
+        "name": "Rose Quartz Facial Roller",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.06 PM.jpeg",
+        "description": "Rose Quartz Facial Roller - Natural cooling stone to reduce puffiness and tension.",
+        "stock": 8,
+        "price": 180,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 114,
+        "name": "Exfoliating Scrub Mitt",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM (1).jpeg",
+        "description": "Dewy Hours Soft Exfoliating Mitt - Gentle body scrub glove for smooth and glowing skin.",
+        "stock": 22,
+        "price": 130,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 115,
+        "name": "Professional Manicure Kit",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM (2).jpeg",
+        "description": "Professional Manicure Kit - Complete set of tools for nail shaping and cuticle care.",
+        "stock": 19,
+        "price": 280,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 116,
+        "name": "Vaseline Cocoa Radiant",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM (3).jpeg",
+        "description": "Vaseline Intensive Care Cocoa Radiant Body Lotion - For a natural, healthy-looking glow.",
+        "stock": 41,
+        "price": 240,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 117,
+        "name": "Spa Gel Softening Socks",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.07 PM.jpeg",
+        "description": "Spa Gel Socks - Infused with essential oils to soften and repair dry or cracked feet.",
+        "stock": 5,
+        "price": 160,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 118,
+        "name": "Dove Coconut Body Spray",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.08 PM (1).jpeg",
+        "description": "Dove Nourishing Secrets Body Spray - Infused with coconut and jasmine scent.",
+        "stock": 27,
+        "price": 210,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 119,
+        "name": "Nivea Sun Shine Control",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.53.08 PM.jpeg",
+        "description": "Nivea Sun Facial Shine Control SPF 50 - High protection with an instant mattifying effect.",
+        "stock": 14,
+        "price": 380,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 120,
+        "name": "Vaseline Lip Therapy Set",
+        "image": "../assets/images/skincare/WhatsApp Image 2026-03-03 at 7.54.13 PM.jpeg",
+        "description": "Vaseline Lip Therapy Variety Pack - Set of mini balms in different flavors and scents.",
+        "stock": 30,
+        "price": 420,
+        "category": "Skincare Products"
+    },
+    {
+        "id": 121,
+        "name": "Pink Bow Ruffle Skirt",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.50.00 PM.jpeg",
+        "description": "Soft pink tiered mini skirt with a feminine ruffled design and bow prints.",
+        "stock": 20,
+        "price": 460,
+        "category": "Skirts"
+    },
+    {
+        "id": 122,
+        "name": "Sunflower Corduroy Mini",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.50.00 PM (1).jpeg",
+        "description": "Trendy brown corduroy mini skirt with delicate sunflower embroidery.",
+        "stock": 20,
+        "price": 390,
+        "category": "Skirts"
+    },
+    {
+        "id": 123,
+        "name": "Elegant Tiered Maxi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.49 PM.jpeg",
+        "description": "Elegant light pink tiered maxi skirt with a flowing silhouette.",
+        "stock": 20,
+        "price": 420,
+        "category": "Skirts"
+    },
+    {
+        "id": 124,
+        "name": "Sage Green Wrap Skirt",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM.jpeg",
+        "description": "Lovely sage green ruffled mini skirt with a wrap-around tie detail.",
+        "stock": 25,
+        "price": 440,
+        "category": "Skirts"
+    },
+    {
+        "id": 125,
+        "name": "Blue Floral Gathered Maxi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (4).jpeg",
+        "description": "Sophisticated blue floral maxi skirt with a stylish gathered waist.",
+        "stock": 25,
+        "price": 450,
+        "category": "Skirts"
+    },
+    {
+        "id": 126,
+        "name": "Butterfly Mesh Mini",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (3).jpeg",
+        "description": "Chic white mesh mini skirt featuring elegant burgundy butterfly embroidery.",
+        "stock": 25,
+        "price": 430,
+        "category": "Skirts"
+    },
+    {
+        "id": 127,
+        "name": "Breezy Floral Midi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (1).jpeg",
+        "description": "Classic pink and blue floral midi skirt with a soft, breezy fabric.",
+        "stock": 25,
+        "price": 450,
+        "category": "Skirts"
+    },
+    {
+        "id": 128,
+        "name": "Lace Insert Blue Maxi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.48 PM (2).jpeg",
+        "description": "Simple light blue tiered maxi skirt with a delicate lace insert.",
+        "stock": 20,
+        "price": 480,
+        "category": "Skirts"
+    },
+    {
+        "id": 129,
+        "name": "Vintage Burgundy Floral",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.47 PM.jpeg",
+        "description": "Vintage-style burgundy floral skirt with a rich, dark pattern.",
+        "stock": 20,
+        "price": 520,
+        "category": "Skirts"
+    },
+    {
+        "id": 130,
+        "name": "Black Daisy Midi",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.47 PM (2).jpeg",
+        "description": "Charming black midi skirt with a bright white daisy floral print.",
+        "stock": 23,
+        "price": 380,
+        "category": "Skirts"
+    },
+    {
+        "id": 131,
+        "name": "Dark Green Leaf Mesh",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-03 at 6.47.47 PM (1).jpeg",
+        "description": "Elegant dark green mesh maxi skirt with black leaf embroidery.",
+        "stock": 25,
+        "price": 400,
+        "category": "Skirts"
+    },
+    {
+        "id": 132,
+        "name": "Dusty Rose Button Mini",
+        "image": "../assets/images/skirt/WhatsApp Image 2026-03-02 at 8.43.57 PM.jpeg",
+        "description": "Stylish dusty rose mini skirt with a button-down front and pleated detail.",
+        "stock": 20,
+        "price": 470,
+        "category": "Skirts"
+    }
+]
