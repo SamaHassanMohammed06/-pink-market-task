@@ -12,7 +12,8 @@ window.addEventListener('load', () => {
         load_category(returnCategory, () => {
             window.scrollTo({ top: returnScroll, behavior: "instant" });
         });
-    } else {
+    } 
+    else {
         home();
     }
 
@@ -68,13 +69,13 @@ window.addEventListener('load', () => {
 
     const link = document.querySelectorAll(".nav_bar ul li a");
     link[0].addEventListener('click', (e) => {
-        e.preventDefault();
+        e.preventDefault(); //stop reloading
         home();
     });
 
     function smooth_move() {
         hero_cont.classList.remove('smooth');
-        void hero_cont.offsetWidth;
+        void hero_cont.offsetWidth; //restart flow
         hero_cont.classList.add('smooth');
     }
 });

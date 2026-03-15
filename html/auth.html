@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Il Cielo — Account</title>
+  <script defer src="../assets/JS/auth.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/style/auth.css">
+</head>
+<body>
+
+  <div class="first_view">
+    <nav>
+      <div class="nav_bar">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">Service</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div class="logo">
+        <img src="../assets/images/IMG-20251221-WA0173.png" alt="Il Cielo Logo">
+      </div>
+      <div class="icons">
+        <a href="#"><i class="fa-regular fa-user"></i></a>
+        <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
+        <a href="#"><i class="fa-regular fa-heart"></i></a>
+        <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+      </div>
+    </nav>
+  </div>
+
+  <div class="auth-page">
+
+    <!-- LOGIN -->
+    <form class="auth-card auth-panel active" id="panel-login" novalidate>
+      <div class="auth-ornament">✦ ✦ ✦</div>
+      <h2 class="auth-title">Welcome Back</h2>
+      <p class="auth-subtitle">Sign in to your Il Cielo account</p>
+
+      <div class="auth-error" id="login-error"></div>
+      <div class="auth-success" id="login-success"></div>
+
+      <div class="auth-field">
+        <label for="login-email">Email</label>
+        <div class="input-wrap">
+          <input type="email" id="login-email" name="email" placeholder="you@email.com" autocomplete="email">
+          <i class="fa-regular fa-envelope"></i>
+        </div>
+      </div>
+
+      <div class="auth-field">
+        <label for="login-password">Password</label>
+        <div class="input-wrap">
+          <input type="password" id="login-password" name="password" placeholder="••••••••" autocomplete="current-password">
+          <i class="fa-solid fa-lock"></i>
+        </div>
+      </div>
+
+      <button type="submit" class="auth-btn" id="login-btn">Sign In</button>
+
+      <p class="auth-switch">Don't have an account? <a href="#" id="go-register">Create one</a></p>
+    </form>
+
+    <!-- REGISTER -->
+    <form class="auth-card auth-panel" id="panel-register" novalidate>
+      <div class="auth-ornament">✦ ✦ ✦</div>
+      <h2 class="auth-title">Create Account</h2>
+      <p class="auth-subtitle">Join the Il Cielo community</p>
+
+      <div class="auth-error" id="register-error"></div>
+      <div class="auth-success" id="register-success"></div>
+
+      <div class="auth-field">
+        <label for="register-name">Full Name</label>
+        <div class="input-wrap">
+          <input type="text" id="register-name" name="name" placeholder="Your full name" autocomplete="name">
+          <i class="fa-regular fa-user"></i>
+        </div>
+      </div>
+
+      <div class="auth-field">
+        <label for="register-email">Email</label>
+        <div class="input-wrap">
+          <input type="email" id="register-email" name="email" placeholder="you@email.com" autocomplete="email">
+          <i class="fa-regular fa-envelope"></i>
+        </div>
+      </div>
+
+      <div class="auth-field">
+        <label for="register-password">Password</label>
+        <div class="input-wrap">
+          <input type="password" id="register-password" name="password" placeholder="Min. 6 characters" autocomplete="new-password">
+          <i class="fa-solid fa-lock"></i>
+        </div>
+      </div>
+
+      <div class="auth-field">
+        <label for="register-confirm">Confirm Password</label>
+        <div class="input-wrap">
+          <input type="password" id="register-confirm" name="confirm" placeholder="Repeat your password" autocomplete="new-password">
+          <i class="fa-solid fa-lock"></i>
+        </div>
+      </div>
+
+      <button type="submit" class="auth-btn" id="register-btn">Create Account</button>
+
+      <p class="auth-switch">Already have an account? <a href="#" id="go-login">Sign in</a></p>
+    </form>
+
+    <!-- LOGOUT -->
+    <div class="auth-card auth-panel" id="panel-logout">
+      <div class="logout-avatar"><i class="fa-solid fa-user"></i></div>
+      <h2 class="logout-name" id="logout-name"></h2>
+      <p class="logout-email" id="logout-email"></p>
+      <div class="logout-badge">
+        <i class="fa-solid fa-circle-check"></i>
+        You're signed in to Il Cielo
+      </div>
+      <button type="button" class="auth-btn" id="logout-btn">
+        <i class="fa-solid fa-arrow-right-from-bracket" style="margin-right:8px"></i>Sign Out
+      </button>
+      <button type="button" class="auth-btn-outline" id="back-to-home-btn">
+        <i class="fa-solid fa-house" style="margin-right:8px"></i>Back to Home
+      </button>
+    </div>
+
+  </div>
+
+  <footer>
+    <div class="footer_container">
+      <div class="footer_section about">
+        <h3>Our Brand</h3>
+        <p>We provide the best services with a touch of elegance and care for our customers.</p>
+      </div>
+      <div class="footer_section links">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer_section social">
+        <h4>Follow Us</h4>
+        <div class="social_icons">
+          <a href="#"><i class="fa-brands fa-facebook"></i></a>
+          <a href="#"><i class="fa-brands fa-instagram"></i></a>
+          <a href="#"><i class="fa-brands fa-twitter"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="footer_bottom"><p>&copy; 2026 Il Cielo. All rights reserved.</p></div>
+  </footer>
+ 
+
+</body>
+</html>
