@@ -12,7 +12,7 @@ window.addEventListener('load', () => {
         load_category(returnCategory, () => {
             window.scrollTo({ top: returnScroll, behavior: "instant" });
         });
-    } 
+    }
     else {
         home();
     }
@@ -67,10 +67,15 @@ window.addEventListener('load', () => {
         load_category("News");
     }
 
-    const link = document.querySelectorAll(".nav_bar ul li a");
-    link[0].addEventListener('click', (e) => {
-        e.preventDefault(); //stop reloading
-        home();
+    const home_links = [
+        document.querySelector(".nav_bar ul li a"),
+        document.querySelector(".footer_section ul li a")
+    ]
+    home_links.forEach(home_link => {
+        home_link.addEventListener('click', (e) => {
+            e.preventDefault(); //stop reloading
+            home();
+        });
     });
 
     function smooth_move() {

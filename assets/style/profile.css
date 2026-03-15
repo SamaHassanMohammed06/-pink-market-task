@@ -96,6 +96,7 @@ nav .icons a:hover {
     0 20px 50px rgba(132, 74, 117, 0.12),
     0 0 0 1px rgba(245, 210, 232, 0.8);
     border-radius: 5%;
+    overflow: hidden;
 }
 #profile-info{
     width: 50%;
@@ -104,7 +105,7 @@ nav .icons a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
- 
+    padding: 10px;
     border-radius: 5%;
 
 }
@@ -114,15 +115,14 @@ nav .icons a:hover {
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
-   
     border-radius: 5%;
     padding: 10px;
 }
 .img{
-    width: 250px;
-    height: 250px; 
+    width: 200px;
+    height: 200px; 
     background-color: rgb(255, 255, 255);
     border-radius: 50%; 
     overflow: hidden; 
@@ -139,7 +139,7 @@ img{
     padding:  10px 20px;
     height: 20px;
     width: 90%;
-    font-family:  'Jost', sans-serif;
+    font-family:  'Times New Roman', Times, serif;
     color: #2e1a27;
     font-size: 0.95rem;
     text-align: center;
@@ -149,7 +149,8 @@ img{
   height: 20px;
   background-color: rgb(255, 255, 255);
   width: 90%;
-  font-family:  'Jost', sans-serif;
+  height: auto;
+  font-family:  'Times New Roman', Times, serif;
   color: #2e1a27;
   font-size: 0.95rem;
   overflow: hidden; 
@@ -161,7 +162,7 @@ img{
 }
 a{
     text-decoration: none;
-    font-family:  'Jost', sans-serif;
+    font-family:  'Times New Roman', Times, serif;
     color: #2e1a27;
     
 }
@@ -172,7 +173,7 @@ a{
         color:  #ffffff;
         border: none;
         border-radius: 50px;
-        font-family: 'Jost', sans-serif;
+        font-family: 'Times New Roman', Times, serif;
         font-size: 0.95rem;
         font-weight: 600;
         letter-spacing: 0.08em;
@@ -210,5 +211,16 @@ a{
     color: white;
     transform: translateX(-4px);
     box-shadow: 0 6px 18px rgba(132, 74, 117, 0.3);
+}
+@media(max-width:900px){
+    #profile-container{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .info-profile,#profile-info , #btn , #cart{
+        width: 100%;
+    }
+    
 }
 

@@ -1,3 +1,10 @@
+window.addEventListener('load', () => {
+    go_profile();
+})
+function go_profile() {
+    if (JSON.parse(localStorage.getItem('userData')).is_login) window.location.href = "profile.html";
+}
+
 // Switch panels
 document.getElementById('go-register').addEventListener('click', function (e) {
     e.preventDefault();
@@ -69,10 +76,11 @@ document.getElementById('panel-register').addEventListener('submit', function (e
         !userRegex.test(usernameInput.value) || !emailRegex.test(emailInput.value) || !passwordRegex.test(passwordInput.value) || confirmPasswordInput.value !== passwordInput.value) {
         alert('Please fix the errors in the form before submitting.');
     } else {
-        userData = {
+        let userData = {
             username: usernameInput.value,
             email: emailInput.value,
-            password: passwordInput.value
+            password: passwordInput.value,
+            is_login: false
         };
         localStorage.setItem('userData', JSON.stringify(userData));
         alert('Registration successful! You can now log in.');
@@ -93,8 +101,11 @@ document.getElementById('panel-login').addEventListener('submit', function (e) {
     }
 
     if (loginEmail === savedData.email && loginPassword === savedData.password) {
-        window.location.href = 'profile.html';
-    } else {
+        savedData.is_login = true;
+        localStorage.setItem('userData', JSON.stringify(savedData));
+    } 
+    else {
         alert('Incorrect email or password.');
     }
+    go_profile();
 });
