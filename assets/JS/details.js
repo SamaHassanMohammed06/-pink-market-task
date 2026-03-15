@@ -41,7 +41,7 @@ window.addEventListener("load", function () {
             wrapper.innerHTML = details;
         }
     };
-    xhr.open('GET', category === "News" ? `../News.json` : `../data.json`);
+    xhr.open('GET', category === "News" ? `../news.json` : `../data.json`);
     xhr.send();
 
 });
