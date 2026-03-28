@@ -3,7 +3,7 @@ window.addEventListener('load', function () {
   const Username = document.getElementById("name-profile");
   const email = document.getElementById("email");
   const logOutBtn = document.getElementById("btn");
-
+  const cart_view = document.getElementById("cart");
   const container = document.getElementById('button-container');
   container.innerHTML = `<button class="back-btn" title="Back">
   <i class="fa-solid fa-arrow-left"></i>
@@ -29,6 +29,10 @@ window.addEventListener('load', function () {
       storedData.is_login = false;
       localStorage.setItem('userData', JSON.stringify(storedData));
       window.location.href = "index.html";
-    })
+    });
   }
+  
+  cart_view.addEventListener("click", () => {
+    window.location.href = "cart.html";
+  });
 });//end of loading
