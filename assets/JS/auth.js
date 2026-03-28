@@ -1,6 +1,6 @@
 window.addEventListener('load', () => {
     go_profile();
-})
+});
 function go_profile() {
     if (JSON.parse(localStorage.getItem('userData')).is_login) window.location.href = "profile.html";
 }
@@ -18,7 +18,7 @@ document.getElementById('go-login').addEventListener('click', function (e) {
     document.getElementById('panel-login').classList.add('active');
 });
 
-// ── Register validation ──
+// Register validation 
 let usernameInput = document.getElementById('register-name');
 let userRegex = /^[a-zA-Z]{3,16}$/;
 
@@ -88,7 +88,7 @@ document.getElementById('panel-register').addEventListener('submit', function (e
         document.getElementById('panel-login').classList.add('active');
     }
 });
-// ── Login Submit ──
+//  Login Submit 
 document.getElementById('panel-login').addEventListener('submit', function (e) {
     e.preventDefault();
     let loginEmail = document.getElementById('login-email').value;
@@ -103,7 +103,7 @@ document.getElementById('panel-login').addEventListener('submit', function (e) {
     if (loginEmail === savedData.email && loginPassword === savedData.password) {
         savedData.is_login = true;
         localStorage.setItem('userData', JSON.stringify(savedData));
-    } 
+    }
     else {
         alert('Incorrect email or password.');
     }

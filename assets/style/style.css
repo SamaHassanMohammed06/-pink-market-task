@@ -188,7 +188,9 @@ h2 {
     margin: 10px 0;
 }
 
-.hero .hero_content .btn button {
+.btn button,
+#cart_btn, #remove_btn,
+#go_home_cart  {
     background-color: rgb(245, 210, 232);
     border: none;
     border-radius: 5px;
@@ -198,6 +200,15 @@ h2 {
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
 }
+.container{
+  text-align: center;
+}
+#cart_btn, #remove_btn{
+    font-size: x-large;
+}
+
+#cart_btn:hover { background-color:  rgb(239, 170, 214); }
+#remove_btn:hover { background-color:rgb(239, 170, 214); }
 
 /* Footer Section */
 footer {
@@ -346,3 +357,5 @@ footer {
         justify-content: center;
     }
 }
+
+
